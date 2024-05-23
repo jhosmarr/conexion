@@ -1,0 +1,165 @@
+﻿  cliente.cpp
+C:\Users\jhosm\Documents\mysql_c\mysql_c\persona.h(5,16): error C3769: 'persona': una clase anidada no puede tener el mismo nombre que la clase inmediatamente envolvente
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\persona.h(27,3): error C3769: 'persona': una clase anidada no puede tener el mismo nombre que la clase inmediatamente envolvente
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(60,3): error C2059: error de sintaxis: 'else'
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(60,8): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,3): error C3927: "->": no se admite el tipo de valor devuelto final después de un declarador que no es de función
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,5): error C3484: error de sintaxis: se esperaba '->' antes del tipo de valor devuelto
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,6): error C3613: falta el tipo de devolución después de '->' (se presupone 'int')
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,6): error C3646: 'cerrar_conexion': especificador de invalidación desconocido
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,21): error C2059: error de sintaxis: '('
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,23): error C2238: símbolos (token) inesperados delante de ';'
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(15,5): error C2614: 'cliente': inicialización de miembro no válida: 'Persona' no es una base o miembro
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(20,32): error C2065: 'nombres': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(21,34): error C2065: 'apellidos': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(22,34): error C2065: 'direccion': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(23,40): error C2065: 'fecha_nacimiento': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(24,30): error C2065: 'telefono': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(27,31): error C2065: 'nombres': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(28,33): error C2065: 'apellidos': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(29,33): error C2065: 'direccion': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(30,40): error C2065: 'fecha_nacimiento': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(31,29): error C2065: 'telefono': identificador no declarado
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(39,6): error C2039: "abrir_conexion": no es un miembro de "conexionBD"
+  (compilando archivo de origen "cliente.cpp")
+  C:\Users\jhosm\Documents\mysql_c\mysql_c\conexionBD.h(5,7):
+  vea la declaración de 'conexionBD'
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(47,114): error C2146: error de sintaxis: falta ';' delante del identificador 'endl'
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(47,114): warning C4551: la llamada a la función no tiene lista de argumentos
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(67,1): error C2059: error de sintaxis: '}'
+  (compilando archivo de origen "cliente.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(67,1): error C2143: error de sintaxis: falta ';' delante de '}'
+  (compilando archivo de origen "cliente.cpp")
+  
+  mysql_c.cpp
+C:\Users\jhosm\Documents\mysql_c\mysql_c\persona.h(5,16): error C3769: 'persona': una clase anidada no puede tener el mismo nombre que la clase inmediatamente envolvente
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\persona.h(27,3): error C3769: 'persona': una clase anidada no puede tener el mismo nombre que la clase inmediatamente envolvente
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(60,3): error C2059: error de sintaxis: 'else'
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(60,8): error C2334: símbolos (token) inesperados delante de '{'; se pasará por alto el cuerpo de función aparente
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,3): error C3927: "->": no se admite el tipo de valor devuelto final después de un declarador que no es de función
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,5): error C3484: error de sintaxis: se esperaba '->' antes del tipo de valor devuelto
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,6): error C3613: falta el tipo de devolución después de '->' (se presupone 'int')
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,6): error C3646: 'cerrar_conexion': especificador de invalidación desconocido
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,21): error C2059: error de sintaxis: '('
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(63,23): error C2238: símbolos (token) inesperados delante de ';'
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(15,5): error C2614: 'cliente': inicialización de miembro no válida: 'Persona' no es una base o miembro
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(20,32): error C2065: 'nombres': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(21,34): error C2065: 'apellidos': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(22,34): error C2065: 'direccion': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(23,40): error C2065: 'fecha_nacimiento': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(24,30): error C2065: 'telefono': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(27,31): error C2065: 'nombres': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(28,33): error C2065: 'apellidos': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(29,33): error C2065: 'direccion': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(30,40): error C2065: 'fecha_nacimiento': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(31,29): error C2065: 'telefono': identificador no declarado
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(39,6): error C2039: "abrir_conexion": no es un miembro de "conexionBD"
+  (compilando archivo de origen "mysql_c.cpp")
+  C:\Users\jhosm\Documents\mysql_c\mysql_c\conexionBD.h(5,7):
+  vea la declaración de 'conexionBD'
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(47,114): error C2146: error de sintaxis: falta ';' delante del identificador 'endl'
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(47,114): warning C4551: la llamada a la función no tiene lista de argumentos
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(67,1): error C2059: error de sintaxis: '}'
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\cliente.h(67,1): error C2143: error de sintaxis: falta ';' delante de '}'
+  (compilando archivo de origen "mysql_c.cpp")
+  
+C:\Users\jhosm\Documents\mysql_c\mysql_c\mysql_c.cpp(30,9): error C2059: error de sintaxis: '/'
+C:\Users\jhosm\Documents\mysql_c\mysql_c\mysql_c.cpp(31,25): error C2065: 'consulta': identificador no declarado
+C:\Users\jhosm\Documents\mysql_c\mysql_c\mysql_c.cpp(45,5): error C2181: 'else' no válido sin el correspondiente 'if'
